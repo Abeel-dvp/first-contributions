@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+
 - [Abhay Donga](https://github.com/AbhayDonga007)
 - [Nandha Kumar](https://github.com/tnrock)
 - [Widdershins](https://github.com/Widdershins89)
@@ -68,6 +69,7 @@
 - [Siim Sink](https://github.com/sinkkkk)
 - [Mayank Gautam]
 - Tamanna
+- Hi my name is Weileer ^^
 - Rahul-Sharing
 - [Tyler Lowe](https://github.com/TylerRLowe)
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
