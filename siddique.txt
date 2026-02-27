@@ -1,0 +1,7 @@
+✅ Create feature branch
+✅ Push to GitHub
+✅ Create Pull Request
+✅ Review & merge
+✅ Tag release
+✅ Create hotfix branch
+✅ Rebase feature branch with develop
