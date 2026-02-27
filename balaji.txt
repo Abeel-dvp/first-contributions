@@ -1,0 +1,7 @@
+Since you are preparing for DevOps interviews, I recommend:
+
+👉 spring-petclinic (for CI/CD simulation)
+👉 docker/getting-started (for container workflow)
+👉 first-contributions (for PR practice)
+
+If you want, I can now give you a real DevOps
